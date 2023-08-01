@@ -20,7 +20,7 @@ To achieve data transmission, the SConnect framework leverages the processes of 
 If you're interested in more details, check out this [blog post](https://saebnaser.com/post/nwcpp/), where I provide a thorough breakdown of the framework's inner workings and its advantages.
 
 ## In Action
-Check the [video](https://saebnaser.com/post/nwcppthree/) at the end of the blog post.
+Check the [video](https://saebnaser.com/post/nwcpp/) at the end of the blog post.
 
 ![sConnectTest](https://github.com/Saeb0x/SConnect/assets/56490771/1b0520fd-5d31-4ab4-b3ee-8fcd366b9f3d)
 
